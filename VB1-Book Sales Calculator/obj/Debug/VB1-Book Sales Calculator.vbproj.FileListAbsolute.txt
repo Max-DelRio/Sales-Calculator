@@ -1,0 +1,33 @@
+v:\documents\visual studio 2015\Projects\VB1-Book Sales Calculator\bin\Debug\VB1-Book Sales Calculator.exe.config
+V:\Documents\Visual Studio 2015\Projects\VB1-Book Sales Calculator\bin\Debug\VB1-Book Sales Calculator.exe
+V:\Documents\Visual Studio 2015\Projects\VB1-Book Sales Calculator\bin\Debug\VB1-Book Sales Calculator.pdb
+V:\Documents\Visual Studio 2015\Projects\VB1-Book Sales Calculator\bin\Debug\VB1-Book Sales Calculator.xml
+V:\Documents\Visual Studio 2015\Projects\VB1-Book Sales Calculator\obj\Debug\VB1-Book Sales Calculator.vbprojResolveAssemblyReference.cache
+V:\Documents\Visual Studio 2015\Projects\VB1-Book Sales Calculator\obj\Debug\VB1_Book_Sales_Calculator.Form1.resources
+V:\Documents\Visual Studio 2015\Projects\VB1-Book Sales Calculator\obj\Debug\VB1_Book_Sales_Calculator.Resources.resources
+V:\Documents\Visual Studio 2015\Projects\VB1-Book Sales Calculator\obj\Debug\VB1-Book Sales Calculator.vbproj.GenerateResource.Cache
+V:\Documents\Visual Studio 2015\Projects\VB1-Book Sales Calculator\obj\Debug\VB1-Book Sales Calculator.exe
+V:\Documents\Visual Studio 2015\Projects\VB1-Book Sales Calculator\obj\Debug\VB1-Book Sales Calculator.xml
+V:\Documents\Visual Studio 2015\Projects\VB1-Book Sales Calculator\obj\Debug\VB1-Book Sales Calculator.pdb
+V:\Documents\VB1-Book Sales Calculator\VB1-Book Sales Calculator\bin\Debug\VB1-Book Sales Calculator.exe.config
+V:\Documents\VB1-Book Sales Calculator\VB1-Book Sales Calculator\obj\Debug\VB1-Book Sales Calculator.exe
+V:\Documents\VB1-Book Sales Calculator\VB1-Book Sales Calculator\obj\Debug\VB1-Book Sales Calculator.xml
+V:\Documents\VB1-Book Sales Calculator\VB1-Book Sales Calculator\obj\Debug\VB1-Book Sales Calculator.pdb
+V:\Documents\VB1-Book Sales Calculator\VB1-Book Sales Calculator\bin\Debug\VB1-Book Sales Calculator.exe
+V:\Documents\VB1-Book Sales Calculator\VB1-Book Sales Calculator\bin\Debug\VB1-Book Sales Calculator.pdb
+V:\Documents\VB1-Book Sales Calculator\VB1-Book Sales Calculator\bin\Debug\VB1-Book Sales Calculator.xml
+V:\Documents\VB1-Book Sales Calculator\VB1-Book Sales Calculator\obj\Debug\VB1-Book Sales Calculator.vbprojResolveAssemblyReference.cache
+V:\Documents\VB1-Book Sales Calculator\VB1-Book Sales Calculator\obj\Debug\VB1_Book_Sales_Calculator.Form1.resources
+V:\Documents\VB1-Book Sales Calculator\VB1-Book Sales Calculator\obj\Debug\VB1_Book_Sales_Calculator.Resources.resources
+V:\Documents\VB1-Book Sales Calculator\VB1-Book Sales Calculator\obj\Debug\VB1-Book Sales Calculator.vbproj.GenerateResource.Cache
+V:\Documents\Visual Studio 2015\Projects\VB1-Book Sales Calculator\VB1-Book Sales Calculator\bin\Debug\VB1-Book Sales Calculator.exe.config
+V:\Documents\Visual Studio 2015\Projects\VB1-Book Sales Calculator\VB1-Book Sales Calculator\obj\Debug\VB1-Book Sales Calculator.exe
+V:\Documents\Visual Studio 2015\Projects\VB1-Book Sales Calculator\VB1-Book Sales Calculator\obj\Debug\VB1-Book Sales Calculator.xml
+V:\Documents\Visual Studio 2015\Projects\VB1-Book Sales Calculator\VB1-Book Sales Calculator\obj\Debug\VB1-Book Sales Calculator.pdb
+V:\Documents\Visual Studio 2015\Projects\VB1-Book Sales Calculator\VB1-Book Sales Calculator\bin\Debug\VB1-Book Sales Calculator.exe
+V:\Documents\Visual Studio 2015\Projects\VB1-Book Sales Calculator\VB1-Book Sales Calculator\bin\Debug\VB1-Book Sales Calculator.pdb
+V:\Documents\Visual Studio 2015\Projects\VB1-Book Sales Calculator\VB1-Book Sales Calculator\bin\Debug\VB1-Book Sales Calculator.xml
+V:\Documents\Visual Studio 2015\Projects\VB1-Book Sales Calculator\VB1-Book Sales Calculator\obj\Debug\VB1-Book Sales Calculator.vbprojResolveAssemblyReference.cache
+V:\Documents\Visual Studio 2015\Projects\VB1-Book Sales Calculator\VB1-Book Sales Calculator\obj\Debug\VB1_Book_Sales_Calculator.Form1.resources
+V:\Documents\Visual Studio 2015\Projects\VB1-Book Sales Calculator\VB1-Book Sales Calculator\obj\Debug\VB1_Book_Sales_Calculator.Resources.resources
+V:\Documents\Visual Studio 2015\Projects\VB1-Book Sales Calculator\VB1-Book Sales Calculator\obj\Debug\VB1-Book Sales Calculator.vbproj.GenerateResource.Cache
